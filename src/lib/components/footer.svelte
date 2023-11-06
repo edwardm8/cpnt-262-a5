@@ -5,13 +5,15 @@
 ];
 </script>
 
-<header class="bg-blue-800 text-white flex justify-between p-4 text-2xl">
+<footer class="bg-blue-800 text-white flex justify-between p-4 flex-col text-center gap-4">
   <div>Card Components</div>
   <nav>
-    <ul class="flex justify-around gap-4">
+    <ul class="flex justify-center gap-4">
       {#each navItems as {name, href}}
       <li class="hover:text-gray-500"><a {href}>{name}</a></li>
       {/each}
     </ul>
   </nav>
-</header>
+  <div>Edward Mah</div>
+  <p>Copyright</p>
+</footer>
