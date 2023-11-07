@@ -1,8 +1,10 @@
-# CPNT 262 A5 Props and Components 
+# CPNT 262 A5 Props and Components
 
 ## By:Edward Mah
 
 ## Website
+
+[Vercel website](https://cpnt-262-a5.vercel.app/)
 
 ## Search notes
 
@@ -28,6 +30,6 @@ Why is my footer not after my page content?
 
 ## Attributions
 
-- [pizza]()
-- [ice cream]()
-- [pasta]()
+- [pizza](https://www.foodandwine.com/recipes/classic-cheese-pizza)
+- [ice cream](https://handletheheat.com/how-to-make-ice-cream/)
+- [pasta](https://www.foodnetwork.com/recipes/food-network-kitchen/baked-feta-pasta-9867689)
